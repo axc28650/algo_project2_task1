@@ -1,0 +1,5 @@
+package org.ucm.algorithms.wordnet.impl;
+
+public class WordNet{
+
+}
